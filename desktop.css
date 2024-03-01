@@ -1,0 +1,19 @@
+header {
+  background-color: black;
+}
+
+.box {
+  width: 1146;
+  height: 500;
+  background-image: url(banner.jpg);
+  background-position: center;
+  text-align: center;
+}
+button {
+  background-color: orangered;
+  color: aliceblue;
+  border: none;
+}
+.laptop {
+  border-radius: 160px;
+}

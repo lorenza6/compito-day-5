@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap");
+.box {
+  height: 325px;
+  width: 325px;
+  text-align: center;
+
+  background-image: url(banner.jpg);
+  background-position: center;
+  margin-left: 570px;
+}
+
+div {
+  text-align: center;
+}
+button {
+  background-color: orangered;
+  color: aliceblue;
+
+  border: none;
+}
+.rectangle {
+  width: 325px;
+  height: auto;
+  margin-left: 570px;
+}
+h2 {
+  color: cornflowerblue;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.pc {
+  border-radius: 90px;
+}
+.cube {
+  width: 325px;
+  height: auto;
+  background-color: orangered;
+  color: aliceblue;
+  margin-left: 570px;
+}
+.photo {
+  width: 325px;
+  height: auto;
+  border: 1px solid #dee1e3;
+
+  margin: 10px 570px;
+}
+h3 {
+  color: cornflowerblue;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.fine {
+  width: 325px;
+  height: auto;
+  background-color: #25a2c3;
+  color: aliceblue;
+  margin-left: 570px;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+header {
+  text-align: center;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
